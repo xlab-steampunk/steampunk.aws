@@ -30,7 +30,7 @@ to hear from you.
 You can help us improve the collection by contributing bug reports and
 ideas for future improvements. You can begin by:
 
-1. Creating a new issue (_Issues -> New issue_),
+1. Creating a [new issue](https://github.com/xlab-si/steampunk.aws/issues/new/choose) (_Issues -> New issue_),
 2. Choosing the appropriate issue template (feature request or bug
    report), and
 3. Filling in the issue template and submitting the issue.
